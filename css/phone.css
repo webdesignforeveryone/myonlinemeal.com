@@ -1,0 +1,35 @@
+/* Navigation */
+#navbar {
+    /* flex-direction: column; */
+}
+
+/* Home Section */
+#home{
+
+
+}
+
+/* Service Section */
+#services{
+    flex-direction: column;
+
+
+}
+
+
+#services.box{
+   
+
+
+}
+
+
+/* Client section */
+#clients{
+    overflow: hidden;
+}
+
+/* Contact us section */
+
+
+/* Footer section */
